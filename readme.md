@@ -1,6 +1,6 @@
 # GestureRecognition
 
-Course project, gesture classification on image.
+Course project, gesture classification on image using multi-layer perceptron.
 
 ## Getting Started
 
